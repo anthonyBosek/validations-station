@@ -1,0 +1,3 @@
+# @validates
+def test():
+    pass
